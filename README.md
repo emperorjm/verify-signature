@@ -1,4 +1,4 @@
-# Sign Arbitrary Messages
+# Verify Signature
 
 This application allows you to verify a signed message from any Cosmos SDK based application.
 
